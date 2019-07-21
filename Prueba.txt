@@ -1,2 +1,1 @@
-Prueba para uso de git
-....
+esto es una prueba 
